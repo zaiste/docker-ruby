@@ -1,7 +1,7 @@
 docker-ruby
 ==============
 
-Ruby (MRI) in a Docker container; based on Ubuntu 13.10 with Ruby 2.1. It is
+Ruby (MRI) in a Docker container; based on Ubuntu `13.10` with Ruby `2.1.2`. It is
 meant to be used as a foundation for Ruby applications.
 
 Usage
